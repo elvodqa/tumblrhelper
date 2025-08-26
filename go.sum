@@ -1,0 +1,8 @@
+github.com/dghubble/oauth1 v0.7.3 h1:EkEM/zMDMp3zOsX2DC/ZQ2vnEX3ELK0/l9kb+vs4ptE=
+github.com/dghubble/oauth1 v0.7.3/go.mod h1:oxTe+az9NSMIucDPDCCtzJGsPhciJV33xocHfcR2sVY=
+github.com/tumblr/tumblr.go v1.0.0 h1:QGCByhaLNXAMFq5Rjq0tVZ3Oe3wlbuUkprOOI8mtYjU=
+github.com/tumblr/tumblr.go v1.0.0/go.mod h1:huMTrAf1GFQP1K/xC72b8H6AaQCFwIjc7yB+AJ2CucY=
+github.com/tumblr/tumblrclient.go v1.0.0 h1:hK8N2wgYTGmL2rEoFqLQ56b7B8ke3M7FAZWATc5nr40=
+github.com/tumblr/tumblrclient.go v1.0.0/go.mod h1:xwY/qidXhkjJyPNE95q2EpblpajD+Lfsn1EQFCiQexM=
+golang.org/x/net v0.43.0 h1:lat02VYK2j4aLzMzecihNvTlJNQUq316m2Mr9rnM6YE=
+golang.org/x/net v0.43.0/go.mod h1:vhO1fvI4dGsIjh73sWfUVjj3N7CA9WkKJNQm2svM6Jg=
